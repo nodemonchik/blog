@@ -1,1 +1,0 @@
-{"version":3,"sources":["styles/styles.scss"],"names":[],"mappings":"AAAA,IAAI,CAAC;EACH,gBAAgB,EAAE,MAAM,GACzB","file":"blog.e31bb0bc.css","sourceRoot":"..","sourcesContent":["body {\n  background-color: tomato;\n}"]}
