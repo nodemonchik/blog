@@ -1,1 +1,3 @@
-console.log('Hello My Blog!');
+import { user } from './user.js';
+
+console.log(`Hello ${user.name}`);
