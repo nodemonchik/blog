@@ -2,3 +2,4 @@
 *.log
 .tern-port
 .cache
+ip.php

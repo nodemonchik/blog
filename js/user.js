@@ -1,3 +1,3 @@
-export let user = {
+export const user = {
   name: 'Ivan'
 }
