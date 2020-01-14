@@ -1,1 +1,0 @@
-{"version":3,"sources":["index.js"],"names":["console","log"],"mappings":";;;AAEA,aAFA,QAAA,wBAEAA,QAAQC,IAAI","file":"blog.d938d92f.js","sourceRoot":"..","sourcesContent":["import './styles/styles.scss';\n\nconsole.log(\"Hi!\");"]}
